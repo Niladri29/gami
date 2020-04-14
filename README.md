@@ -1,2 +1,2 @@
-# gami
+# game
 snake
